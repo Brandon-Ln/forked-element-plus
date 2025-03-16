@@ -27,6 +27,7 @@ export default defineConfig({
     },
     coverage: {
       reporter: ['text', 'json-summary', 'json'],
+      all: false,
       exclude: [
         'play/**',
         'packages/locale/lang/**',

@@ -28,7 +28,6 @@ declare module 'vue' {
     FigmaVariablesSvg: typeof import('./.vitepress/vitepress/components/globals/resources/figma-variables-svg.vue')['default']
     GuideSvg: typeof import('./.vitepress/vitepress/components/home/svg/guide-svg.vue')['default']
     HomeCards: typeof import('./.vitepress/vitepress/components/home/home-cards.vue')['default']
-    HomeSponsors: typeof import('./.vitepress/vitepress/components/home/home-sponsors.vue')['default']
     Icons: typeof import('./.vitepress/vitepress/components/globals/icons.vue')['default']
     IRiCodeLine: typeof import('~icons/ri/code-line')['default']
     IRiExternalLinkLine: typeof import('~icons/ri/external-link-line')['default']
