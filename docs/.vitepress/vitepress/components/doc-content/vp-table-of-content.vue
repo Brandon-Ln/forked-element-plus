@@ -32,6 +32,7 @@ const removeTag = (str: string) => str.replace(/<span.*<\/span>/g, '')
     </nav>
   </aside>
 </template>
+
 <style scoped lang="scss">
 .el-anchor__item {
   .el-anchor__link > div {
